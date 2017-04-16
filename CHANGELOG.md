@@ -1,5 +1,10 @@
-#CHANGELOG
+# CHANGELOG
 
+
+## Commit three
+- Add home module & components for something to route to once the user logs in (not yet)
+- Add core & shared modules to conform to style guide
+- tests don't work
 
 ## Commit two
 - npm install --save font-awesome
